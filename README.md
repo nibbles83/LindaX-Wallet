@@ -62,7 +62,7 @@ Now you're ready to initialize Mist for development:
 
 ```bash
 $ git clone https://github.com/thelindaprojectinc/lindax-wallet.git
-$ cd mist
+$ cd lindax-wallet
 $ yarn
 ```
 
@@ -79,7 +79,7 @@ $ yarn dev:meteor
 In the original window you can then start Mist with:
 
 ```bash
-$ cd mist
+$ cd lindax-wallet
 $ yarn dev:electron
 ```
 
@@ -104,7 +104,7 @@ $ cd my/path/meteor-dapp-wallet/app && meteor --port 3050
 In the original window you can then start Mist using wallet mode:
 
 ```bash
-$ cd mist
+$ cd lindax-wallet
 $ yarn dev:electron --mode wallet
 ```
 
